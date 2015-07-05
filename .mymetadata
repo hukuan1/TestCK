@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="TestCK"
+  id="myeclipse.1435843433782"
+  context-root="/TestCK"
+  j2ee-spec="5.0"
+  archive="TestCK.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
